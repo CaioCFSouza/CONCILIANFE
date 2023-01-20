@@ -1,0 +1,13 @@
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.csproj.AssemblyReference.cache
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.Form1.resources
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.Properties.Resources.resources
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.csproj.GenerateResource.cache
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.csproj.CoreCompileInputs.cache
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\bin\Debug\ConciliaNfeBig.exe.manifest
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\bin\Debug\ConciliaNfeBig.application
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\bin\Debug\ConciliaNfeBig.exe
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\bin\Debug\ConciliaNfeBig.pdb
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.exe.manifest
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.application
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.exe
+C:\Users\cferreira\Desktop\scripts\Automatizações\ConciliaNfe\ConciliaNfeBig\obj\Debug\ConciliaNfeBig.pdb
